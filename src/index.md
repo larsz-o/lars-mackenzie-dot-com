@@ -1,5 +1,6 @@
 ---
 title: "Lars Mackenzie"
+metaDesc: 'the professional website for Lars Mackenzie'
 subtitle: "learning designer and web developer"
 layout: "layouts/home.html"
 intro:

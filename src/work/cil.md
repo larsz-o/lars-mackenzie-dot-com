@@ -1,5 +1,9 @@
 ---
 title: "Chaplaincy Innovation Lab - Interactive Lessons"
-summary: " "
+summary: ""
+gallery: 
+    -   title: ''
+        summary: ''
+        image: ''
 displayOrder: 1
 ---

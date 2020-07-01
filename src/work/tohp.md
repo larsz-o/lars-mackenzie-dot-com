@@ -1,5 +1,9 @@
 ---
 title: "Transcripts podcast digital exhibit"
-summary: " "
+summary: ""
+gallery: 
+    -   title: ''
+        summary: ''
+        image: ''
 displayOrder: 2
 ---

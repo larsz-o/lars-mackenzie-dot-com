@@ -5,13 +5,14 @@
           <h2 class="[ headline ]" data-highlight="quaternary">{{ shortBio.title }}</h2>
           <p>{{ shortBio.summary }}</p>
           <div>
+              <h3>my guiding principles</h3>
               {% for principle in shortBio.principles %}
-              <div class="[ word__highlight ]">
+              <div class="[ highlight__word ]">
                   {{ principle }}
               </div>
               {% endfor %}
-              <h3>{{ shortBio.quote }}</h3>
-              <p>{{ shortBio.tagline }}</p>
+              <h3 class="[ quote ]">{{ shortBio.quote }}</h3>
+              <p class="[ tagline ]">{{ shortBio.tagline }}</p>
           </div>
         </div>
       </div>
