@@ -6,7 +6,6 @@
       background: rgba(get-color('light'), 0.99);
       color: get-color('dark-shade');
     }
-  
     @include media-query('md') {
       &__inner {
         display: grid;
