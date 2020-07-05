@@ -1,0 +1,20 @@
+{
+    "social": [
+        {
+            "icon": "https://lars-prof-site.s3.us-east-2.amazonaws.com/github-logo.71e8a8d0.svg",
+            "url": "https://github.com/larsz-o"
+        },
+        {
+            "icon": "https://lars-prof-site.s3.us-east-2.amazonaws.com/twitter.669afc82.svg",
+            "url": "https://twitter.com/larszmac"
+        },
+        {
+            "icon": "https://lars-prof-site.s3.us-east-2.amazonaws.com/linkedin.d7874b5e.svg",
+            "url": "https://www.linkedin.com/in/lars-mackenzie/"
+        },
+        {
+            "icon": "https://lars-prof-site.s3.us-east-2.amazonaws.com/envelope.a3ccee01.svg",
+            "url": "mailto:larsmackenzie@gmail.com"
+        }
+    ]
+}

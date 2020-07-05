@@ -35,7 +35,28 @@
     @include apply-utility('font', 'sans');
     @include apply-utility('leading', 'flat');
   }
-  
+  .flex-box {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+  .flex-column {
+    flex-direction: column;
+  }
+  .flex-center {
+    justify-content: center;
+  }
+  .flex-end {
+    justify-content: flex-end;
+  }
+  .flex-evenly {
+    justify-content: space-evenly;
+  }
+  .icon {
+    height: 40px;
+    width: 40px;
+    margin: get-size('300')
+  }
   // High contrast selection because it can help visually-impaired
   // folks read the text easier
   ::selection {
@@ -72,9 +93,11 @@
 @import 'blocks/post-list';
 @import 'blocks/pagination';
 @import 'blocks/page-content';
+@import 'blocks/gallery';
 
 @import 'utilities/dot-shadow';
 @import 'utilities/flow';
+@import 'utilities/frame';
 @import 'utilities/panel';
 @import 'utilities/radius';
 @import 'utilities/site-wrap';

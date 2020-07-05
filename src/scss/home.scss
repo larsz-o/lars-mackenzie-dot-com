@@ -7,3 +7,22 @@ $outputTokenCSS: false;
 // Next: pull in gorko for design tokens
 @import '../../node_modules/gorko/gorko.scss';
 
+.intro {
+
+&__header {
+    margin: get-size('700') get-size('500');
+}
+}
+.learning-div {
+    background: get-color('secondary');
+    padding: get-size('600');
+}
+.quote {
+    font-style: italic;
+}
+.word
+{
+    padding: get-size('300');
+    margin: get-size('300');
+    background-color: get-color('tertiary-glare')
+} 

@@ -1,13 +1,10 @@
 ---
 title: "Lars Mackenzie"
 metaDesc: 'the professional website for Lars Mackenzie'
-subtitle: "learning designer and web developer"
 layout: "layouts/home.html"
 intro:
-  eyebrow: 'I build'
-  main: 'engaging, accessible, and collaborative digital learning environments.'
-  buttonText: 'See my work'
-  buttonUrl: '/work'
-  image: '/images/lego.jpg'
-  imageAlt: 'A small orange Lego piece'
+  eyebrow: "Hi, I'm Lars."
+  main: "I build engaging, accessible, and collaborative digital learning environments."
+  image: "/images/people-2.jpg"
+  imageAlt: "various people"
 ---

@@ -54,5 +54,10 @@ getSiblingContent(collection, item, limit = 3, random = true) {
     }
   
     return filteredItems;
+  },
+  getYear(){
+    let date = new Date();
+    let year = date.getFullYear();
+    return year;
   }
 }

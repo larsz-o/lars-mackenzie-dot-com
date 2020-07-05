@@ -1,12 +1,15 @@
-{% set pageTitle = title + ' - ' + site.name %}
+{% set pageTitle = title + ' - ' + site.title %}
 
 {# We don't want any duplication. This is likely for the home page. #}
-{% if site.name === title %} 
+{% if site.title === title %} 
   {% set pageTitle = title %}
 {% endif %}
 
-{% set siteTitle = site.name %}
+{% set siteTitle = site.title %}
 {% set currentUrl = site.url + page.url %}
+{% if not socialImage %} 
+  {% set socialImage = site.url + '/images/meta/social-share.png' %} 
+{% endif %}
 
 {# If the page’s Front Matter has specific metaTitle and/or metaDesc items, switch 
   them into the mix. #}
@@ -31,8 +34,8 @@
   <meta name="twitter:card" content="summary_large_image" />
   <meta property="og:image" content="{{ socialImage }}" />
   <meta name="twitter:image" content="{{ socialImage }}" />
-  <meta property="og:image:alt" content="Page image for {{ site.name }}" />
-  <meta name="twitter:image:alt" content="Page image for {{ site.name }}" />
+  <meta property="og:image:alt" content="Page image for {{ site.title }}" />
+  <meta name="twitter:image:alt" content="Page image for {{ site.title }}" />
 {% endif %}
 
 {% if metaDesc %}
@@ -40,3 +43,4 @@
   <meta name="twitter:description" content="{{ metaDesc }}" />
   <meta property="og:description" content="{{ metaDesc }}" />
 {% endif %}
+<link rel="icon" href="/images/meta/shrimp.png" type="image/ico"/>

@@ -1,18 +1,27 @@
 {% set shortBio = shortbio %}
-<article>
+
+<article class="panel">
     <div class="wrapper">
-        <div class="[ flow ]">
-          <h2 class="[ headline ]" data-highlight="quaternary">{{ shortBio.title }}</h2>
+        <div class="flow">
+          <h2 class="headline" data-highlight="quaternary">{{ shortBio.title }}</h2>
           <p>{{ shortBio.summary }}</p>
           <div>
+            <div class="panel">
               <h3>my guiding principles</h3>
-              {% for principle in shortBio.principles %}
-              <div class="[ highlight__word ]">
-                  {{ principle }}
+              <div class="flex-box">
+                {% for principle in shortBio.principles %}
+                <p class="word">
+                    {{ principle }}
+                </p>
+                {% endfor %}
               </div>
-              {% endfor %}
-              <h3 class="[ quote ]">{{ shortBio.quote }}</h3>
-              <p class="[ tagline ]">{{ shortBio.tagline }}</p>
+            </div>
+              
+              <div class="panel frame learning-div">
+                  <h3 class="quote">{{ shortBio.quote }}</h3>
+                  <p class="tagline">{{ shortBio.tagline }}</p>
+              </div>
+       
           </div>
         </div>
       </div>

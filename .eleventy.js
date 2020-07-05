@@ -3,10 +3,17 @@ const sortByDisplayOrder = require('./src/utils/sort-by-display-order.js');
 const dateFilter = require('./src/filters/date-filter.js');
 const w3DateFilter = require('./src/filters/w3-date-filter.js');
 const rssPlugin = require('@11ty/eleventy-plugin-rss');
+// Transforms
+const htmlMinTransform = require('./src/transforms/html-min-transforms.js');
+// Create a helpful production flag
+const isProduction = process.env.NODE_ENV === 'production';
+
 
 module.exports = config => {
-// Set directories to pass through to the dist folder
-config.addPassthroughCopy('./src/images/');
+// Only minify HTML if we are in production because it slows builds _right_ down
+if (isProduction) {
+  config.addTransform('htmlmin', htmlMinTransform);
+}
 // Add filters
 config.addFilter('dateFilter', dateFilter);
 config.addFilter('w3DateFilter', w3DateFilter);
