@@ -1,6 +1,6 @@
 ---
 title: "Lars Mackenzie"
-metaDesc: 'the professional website for Lars Mackenzie'
+metaDesc: 'The professional website for Lars Mackenzie.'
 layout: "layouts/home.html"
 intro:
   eyebrow: "Hi, I'm Lars."
