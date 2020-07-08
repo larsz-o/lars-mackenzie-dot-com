@@ -8,7 +8,8 @@
 {# Render post date and any tags that this post has been filed under #}
 {% set pageHeaderSummary %}
 <div>
-    <time datetime="{{ date | w3DateFilter }}">{{ date | dateFilter }}</time><a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+    <time datetime="{{ date | w3DateFilter }}">{{ date | dateFilter }}</time>
+    <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-size="large" data-via="larszmac" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
 {% if tags %}
 <p class="visually-hidden" id="tags-desc">Tags that this post has been filed under.</p>
