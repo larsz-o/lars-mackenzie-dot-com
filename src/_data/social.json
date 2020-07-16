@@ -2,19 +2,23 @@
     "social": [
         {
             "icon": "https://lars-prof-site.s3.us-east-2.amazonaws.com/github-logo.71e8a8d0.svg",
-            "url": "https://github.com/larsz-o"
+            "url": "https://github.com/larsz-o",
+            "alt": "GitHub"
         },
         {
             "icon": "https://lars-prof-site.s3.us-east-2.amazonaws.com/twitter.669afc82.svg",
-            "url": "https://twitter.com/larszmac"
+            "url": "https://twitter.com/larszmac",
+            "alt": "Twitter"
         },
         {
             "icon": "https://lars-prof-site.s3.us-east-2.amazonaws.com/linkedin.d7874b5e.svg",
-            "url": "https://www.linkedin.com/in/lars-mackenzie/"
+            "url": "https://www.linkedin.com/in/lars-mackenzie/",
+            "alt": "LinkedIn"
         },
         {
             "icon": "https://lars-prof-site.s3.us-east-2.amazonaws.com/envelope.a3ccee01.svg",
-            "url": "mailto:larsmackenzie@gmail.com"
+            "url": "mailto:larsmackenzie@gmail.com",
+            "alt": "Email"
         }
     ]
 }
