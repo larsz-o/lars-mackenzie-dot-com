@@ -16,7 +16,7 @@
 <ul class="tags-list flex-box" aria-describedby="tags-desc">
     {% for tag in tags %}
     <li class="tag">
-        <a href="/tag/{{ tag | slug }}/">#{{ tag | title | replace(' ', '') }}</a>
+        <a href="/tag/{{ tag | slug }}/">#{{ tag  }}</a>
     </li>
     {% endfor %}
 </ul>
