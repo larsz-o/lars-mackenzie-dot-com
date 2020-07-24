@@ -9,7 +9,6 @@ $outputTokenCSS: false;
 
 .details {
   background-color: get-color('secondary');
-  max-width: 50rem;
   padding: get-size('600');
   position: relative;
   margin-top: get-size('300');
@@ -23,6 +22,7 @@ time[datetime] {
 }
 .timeline-item {
   padding: get-size('600');
+  max-width: 50rem;
 }
 .timeline-item li{
   font-family: monospace;
