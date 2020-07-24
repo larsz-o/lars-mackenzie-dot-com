@@ -1,0 +1,17 @@
+.tag-list {
+    line-height: 1;
+    font-weight: 900;
+    margin-top: -#{get-size('400')};
+    margin-inline-start: -#{get-size('400')};
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+  }
+ .tag-item {
+   display: inline-block;
+    padding-top: get-size('400');
+    padding-inline-start: get-size('400');
+    
+  }
+
+ 
