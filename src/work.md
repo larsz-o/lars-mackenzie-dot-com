@@ -9,6 +9,10 @@ timeline: [
         {
         date: "June - October 2018", experience: "Attended an intensive full-stack software engineering bootcamp", details: "Wanting to sharpen and deepen my web development skills, I enrolled in Prime Digital Academy. This was one of the best decisions of my life. I worked on teams of other developers on real-world projects, spent long days and nights holed up learning React, Node, SQL, and MongoDB.", link: "https://primeacademy.io/"
     },
+    {
+        date: "2017 - 2019", experience: "Developed and managed a web archive for MN Youth Story Squad", details: "MN Youth Story Squad partners with middle schools in the Twin Cities - teaching students how to create multimedia storytelling projects about their lived experiences. The group works primarily with students of color. As the project's web developer and asset manager, I catalogued, archived, and showcased youth-produced video projects across three platforms.", link: "https://www.youthstorysquad.org/"
+    },
+    
         {
         date: "2016 - present", experience: "Work as a freelance web developer", details: "I build projects for small businesses and academics, highlighting research and creative projects.", link: ""
     },
@@ -25,7 +29,7 @@ timeline: [
         date: "2014", experience: "Produced five online, interactive lessons on keywords in feminist studies", details: "Each lesson was built using Articulate Storyline. I developed the storyboards, gathered copyright free media, wrote and recorded voiceovers, and developed assessments. They cover topics such as Empire, The Gaze, Gender, Intersectionality, and Whiteness.", link: "https://cla.umn.edu/gwss/research/digital-humanities-social-justice/gwss-feminist-modules"
     },
          {
-        date: "2012", experience: "Improved digital services operations on a 24/7 dating abuse crisis
+        date: "2011 - 2012", experience: "Improved digital services operations on a 24/7 dating abuse crisis
 helpline", details: "I worked at the National Dating Abuse Helpline, first as a front-line worker and then as a supervisor. During this time, I researched best practices for developing rapport online with young callers and resources for supporting LGBTQ people experiencing relationship violence.", link: "https://www.loveisrespect.org/"
     }, 
           {
