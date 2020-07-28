@@ -35,7 +35,7 @@ helpline", details: "I worked at the National Dating Abuse Helpline, first as a 
           {
         date: "2011", experience: "Co-organized a zine fest in Austin, TX", details: "Austin Zine Fest was a celebration of D.I.Y., radical print. This two-day event that created space to explore the possibility of social change through the creation and distribution of underground media.", link: "https://atxzinefest.wordpress.com/featuring/"
     },     {
-        date: "2010", experience: "Graduated from Hampshire College", details: "Rang the Div Free bell!", link: "https://www.hampshire.edu/"
+        date: "2010", experience: "Graduated from Hampshire College", details: "Hampshire College was the first place where I experienced experimental education first hand. A college without defined majors or numeric grades, students are encouraged to define their own interdisciplinary paths. My senior thesis focused on narratives of scientific authority on crime television shows and the racialized and gendered histories of policing in the US.", link: "https://www.hampshire.edu/"
     }, 
       {
         date: "2000 - ???", experience: "Prolific use of MySpace and xanga", details: "Spending my youth creating my own space on the web, listening to emo music, and writing poetry.", link: "https://www.deadjournal.com/"
