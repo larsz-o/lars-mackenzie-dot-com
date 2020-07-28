@@ -1,7 +1,16 @@
-{ 
+{
     "title": "about me",
     "summary": "I create engaging digital experiences oriented towards learning and exploration.  I've been professionally trained in research, teaching, and full-stack software development - skills which I use daily for UX/UI design. Previously, I taught university courses, worked at a dating abuse hotline, and created zines. You can often find me picking up new skills through short courses or personal projects.",
-    "principles": ["critical pedagogy", "lifelong learning", "social justice", "accessibility", "experimentation", "creativity", "learning by doing", "anti-oppressive design"],
+    "principles": [
+        "critical pedagogy",
+        "lifelong learning",
+        "social justice",
+        "accessibility",
+        "experimentation",
+        "creativity",
+        "learning by doing",
+        "anti-oppressive design"
+    ],
     "quote": "whatever you pay attention to grows",
     "tagline": "currently working on: game development and motion graphic design"
 }
