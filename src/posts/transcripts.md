@@ -1,5 +1,5 @@
 ---
-title: 'trasnscripts: the digital exhibit'
+title: 'transcripts: the digital exhibit'
 date: '2020-07-06'
 tags: ['web design', 'learning', 'trans', 'social justice', 'work', 'WordPress']
 ---

@@ -9,6 +9,9 @@
         "learning by doing",
         "inclusive design"
     ],
+    "technologies": [
+        "React", "Redux", "JavaScript", "PHP", "Node", "SASS", "CSS", "HTML", "C#", "SQL", "Python", "Git", "Gulp", "AWS", "Blender", "Unity", "WordPress", "Illustrator", "After Effects", "Premiere Pro", "Photoshop"
+    ],
     "quote": "whatever you pay attention to grows",
     "tagline": "currently working on: game development and motion graphic design"
 }

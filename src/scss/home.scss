@@ -13,6 +13,11 @@ $outputTokenCSS: false;
     margin: get-size('700') get-size('500');
 }
 }
+.item {
+    padding: get-size('300');
+    margin: get-size('300');
+    background-color: get-color('quaternary');
+}
 .learning-div {
     background: get-color('secondary');
     padding: get-size('600');
@@ -26,3 +31,6 @@ $outputTokenCSS: false;
     margin: get-size('300');
     background-color: get-color('tertiary-glare')
 } 
+.shadow {
+    box-shadow: 4px 6px get-color('dark-shade')
+}
