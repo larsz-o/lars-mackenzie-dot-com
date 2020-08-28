@@ -1,9 +1,10 @@
 ---
 title: 'today I learned: animating with css'
 date: '2020-07-20'
+snippet: "Before this course, I had done some basic keyframe animations before, but usually just by copying and pasting code from elsewhere - not truly understanding how it works. Though it was pretty quick (just about 3.5 hours of instruction), it was a great dive into the mechanics of animating with CSS, especially some of the more interesting interactions like parallax scrolling."
 tags: ['web design', 'CSS', 'learning', 'animations', 'TIL']
----
 
+---
 I am writing an update in the spirit of this great blog post I read this morning, "[Write More, Write Small](https://dev.to/jbranchaud/write-more-write-small-5c45)." I like the idea of keeping a TIL (today I learned) log. So, today I learned: some (more) animation with CSS. 
 
 I finished a Udemy course that I've been going through on and off for a few months called [Level Up Your CSS Animation Skills](https://www.udemy.com/course/level-up-your-css-animation-skills/). Before this course, I had done some basic keyframe animations before, but usually just by copying and pasting code from elsewhere - not truly understanding how it works. Though it was pretty quick (just about 3.5 hours of instruction), it was a great dive into the mechanics of animating with CSS, especially some of the more interesting interactions like parallax scrolling.

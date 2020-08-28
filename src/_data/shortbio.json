@@ -1,16 +1,18 @@
 {
     "title": "about me",
-    "summary": "I create engaging digital experiences oriented towards learning and exploration.  I've been professionally trained in research, design, and full-stack software development - skills which I use daily for UI/UX development. You can often find me picking up new skills through short courses or personal projects.",
+    "summary": "I create engaging digital experiences oriented towards learning and exploration. I've been professionally trained in research, design, and full-stack software development - skills which I use daily for UI/UX development and learning design. You can often find me picking up new skills through short courses or personal projects.",
     "principles": [
         "accessibility",
+        "unviversal design",
         "usability",
         "experimentation",
         "creativity",
         "learning by doing",
-        "inclusive design"
+        "inclusive design", 
+        "social justice"
     ],
     "technologies": [
-        "React", "Redux", "JavaScript", "PHP", "Node", "SASS", "CSS", "HTML", "C#", "SQL", "Python", "Git", "Gulp", "AWS", "Blender", "Unity", "WordPress", "Illustrator", "After Effects", "Premiere Pro", "Photoshop"
+        "React", "Redux", "JavaScript", "PHP", "Node", "SASS", "CSS", "HTML", "C#", "SQL", "Python", "Git", "Gulp", "AWS", "Blender", "Unity", "WordPress", "Moodle", "Illustrator", "After Effects", "Premiere Pro", "Photoshop", "Lottie", "Articulate"
     ],
     "quote": "whatever you pay attention to grows",
     "tagline": "currently working on: game development and motion graphic design"

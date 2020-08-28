@@ -13,12 +13,21 @@ $outputTokenCSS: false;
   position: relative;
   margin-top: get-size('300');
 }
+.helper-text {
+  font-size: get-size('500');
+  font-style: italic;
+}
+.snippet {
+  color: get-color('dark');
+  font-size: get-size('400');
+  margin-top: get-size('300');
+  padding-left: get-size('300');
+  border-left: 3px solid get-color('quinary');
+}
 // Generic styles
 time[datetime] {
-  display: block;
-  color: get-color('primary-shade');
-  font-size: get-size('700');
-  font-style: italic;
+  color: get-color('dark-shade');
+  font-size: get-size('400');
 }
 .timeline-item {
   padding: get-size('600');

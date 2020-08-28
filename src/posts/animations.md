@@ -1,7 +1,9 @@
 ---
 title: 'still loading: lottie animations'
 date: '2020-07-08'
+snippet: "I had never implemented a loading state animation for a web application before so I started digging around for some ideas on how to do this when I discovered Lottie Files."
 tags: ['Illustrator', 'animations', 'learning', 'After Effects']
+
 ---
 I had never implemented a loading state animation for a web application before so I started digging around for some ideas on how to do this when I discovered Lottie Files.
 

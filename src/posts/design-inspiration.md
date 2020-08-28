@@ -1,7 +1,9 @@
 ---
 title: 'design inspiration'
 date: '2020-08-15'
+snippet: "What would be in your design inspiration library?"
 tags: ['web design', 'colors', 'layout', 'work', 'fun']
+
 ---
 I read [a great Tweet](https://twitter.com/jackmcdade/status/1275449401759035399?s=20) a few months ago that I can't stop thinking about. 
 

@@ -1,9 +1,10 @@
 ---
 title: 'my first games'
 date: '2020-07-05'
+snippet: "Around December, I started working on a Udemy course on 2-D game design. I was excited to learn a new programming language (C#), and to build something that people might actually want to interact with."
 tags: ['game design', 'C#', 'learning']
----
 
+---
 I have always been into playing video games, but until recently, I haven't thought of them as something I could *create*. 
 
 Around December, I started working on a [Udemy course on 2-D game design](https://www.udemy.com/course/unitycourse/learn/lecture/10248514). I was excited to learn a new programming language (C#), and to build something that people might actually want to interact with.
