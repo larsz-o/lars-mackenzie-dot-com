@@ -1,7 +1,7 @@
 ---
 title: 'today I learned: animating with css'
 date: '2020-07-20'
-snippet: "Before this course, I had done some basic keyframe animations before, but usually just by copying and pasting code from elsewhere - not truly understanding how it works. Though it was pretty quick (just about 3.5 hours of instruction), it was a great dive into the mechanics of animating with CSS, especially some of the more interesting interactions like parallax scrolling."
+snippet: "The most challenging aspect of working with animations in web design is making sure that you strike the right balance: giving your designs a bit of finesse and liveliness while not overwhelming your user by animating everything."
 tags: ['web design', 'CSS', 'learning', 'animations', 'TIL']
 
 ---
