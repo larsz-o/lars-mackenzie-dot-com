@@ -9,9 +9,14 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta http-equiv="X-UA-Compatible" content="ie=edge" />
   <link rel="alternate" type="application/rss+xml" href="{{ site.url }}/feed.xml" />
-  <link
-    href="https://fonts.googleapis.com/css2?family=Inconsolata&family=Karla&family=MuseoModerno&family=Notable&family=Nunito+Sans&family=Yellowtail&display=swap"
-    rel="stylesheet">
+     <!--non-blocking base64 encoded font resource-->
+     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inconsolata&family=Karla&family=MuseoModerno&family=Notable&family=Nunito+Sans&family=Yellowtail&display=swap" media="none" onload="if(media!='all')media='all'">
+     <noscript>
+      <link
+      href="https://fonts.googleapis.com/css2?family=Inconsolata&family=Karla&family=MuseoModerno&family=Notable&family=Nunito+Sans&family=Yellowtail&display=swap"
+      rel="stylesheet">
+     </noscript>
+
   {% include "partials/meta-info.html" %}
   <style>
     {% include "css/critical.css"%}
