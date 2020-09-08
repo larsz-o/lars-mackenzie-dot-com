@@ -3,6 +3,7 @@ title: 'project ideas'
 date: '2020-08-28'
 snippet: "If I had a shred of energy, here's what I would be working on."
 tags: ['learning', 'fatigue', 'inspiration']
+isPublished: true
 
 ---
 Lately, I have too many project ideas and not enough time. Here are some of the things I've been hoping to do over the past few months: 

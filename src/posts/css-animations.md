@@ -3,6 +3,7 @@ title: 'today I learned: animating with css'
 date: '2020-07-20'
 snippet: "The most challenging aspect of working with animations in web design is making sure that you strike the right balance: giving your designs a bit of finesse and liveliness while not overwhelming your user by animating everything."
 tags: ['web design', 'CSS', 'learning', 'animations', 'TIL']
+isPublished: true
 
 ---
 I am writing an update in the spirit of this great blog post I read this morning, "[Write More, Write Small](https://dev.to/jbranchaud/write-more-write-small-5c45)." I like the idea of keeping a TIL (today I learned) log. So, today I learned: some (more) animation with CSS. 

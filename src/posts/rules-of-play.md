@@ -1,8 +1,9 @@
 ---
-title: 'Notes on Rules of Play'
+title: 'notes on Rules of Play'
 date: '2020-08-31'
 snippet: "While we can know what we want to ask people to do, read, watch, or consider, we can't (fully) determine what they will learn until we run the activity or teach the course."
 tags: ['game design', 'learning']
+isPublished: true
 
 ---
 ## on iterative design

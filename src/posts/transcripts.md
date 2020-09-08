@@ -3,6 +3,7 @@ title: 'transcripts: the digital exhibit'
 date: '2020-07-06'
 snippet: "I built a website/digital exhibit for a new podcast called Transcripts, which uses oral histories from the Trans Oral History Project out of the University of Minnesota to tell stories about trans politics."
 tags: ['web design', 'learning', 'trans', 'social justice', 'work', 'WordPress']
+isPublished: true
 
 ---
 Here's an update on one of the projects I've been working on lately outside of my day job. I built a website/digital exhibit for a new podcast called _[Transcripts](https://transcriptspodcast.dash.umn.edu/)_, which uses oral histories from the _[Trans Oral History Project](https://www.lib.umn.edu/tretter/transgender-oral-history-project)_ out of the University of Minnesota to tell stories about trans politics. 

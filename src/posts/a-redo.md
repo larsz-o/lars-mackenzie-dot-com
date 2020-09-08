@@ -3,6 +3,7 @@ title: 'another website redo'
 date: '2020-07-05'
 snippet: 'The very few viewers of my professional website might notice a change here.'
 tags: ['web design', 'eleventy', 'learning']
+isPublished: true
 
 ---
 The _very few_ viewers of my professional website might notice a change here. Ever since I learned how to create web applications, I've experimented with different ways to showcase my...self. Which is always a weird concept to me. I'm not a very showy person. But, I love playing with different colors, layouts, and styles and I wanted to have some place on the internet to do this while also helping me in my job search last year.

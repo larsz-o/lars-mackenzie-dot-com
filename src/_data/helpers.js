@@ -29,7 +29,7 @@ module.exports = {
    * @returns {Array} The resulting collection
    */
 getSiblingContent(collection, item, limit = 3, random = true) {
-    let filteredItems = collection.filter(x => x.url !== item.url);
+    let filteredItems = collection.filter(x => x.url !== item.url && item.isPublished);
   
     if (random) {
       let counter = filteredItems.length;
