@@ -1,6 +1,16 @@
 {
     "title": "about me",
-    "summary": "I create engaging digital experiences oriented towards learning and exploration. I've been professionally trained in research, design, and full-stack software development - skills which I use daily for learning design and UI/UX development. You can often find me picking up new skills through short courses or personal projects.",
+    "summary": "I create engaging digital experiences oriented towards learning and exploration. I am passionate about educational media production, critical pedagogy, and technology justice.",
+    "details": [
+        "built dozens of graduate and undergraduate courses",
+        "taught hundreds of college students how to create digital stories and interactive maps",
+        "earned a doctorate in feminist studies from the University of Minnesota (emphasis on technology + social justice)",
+        "coached instructors on creative ways to teach online",
+        "taught university courses",
+        "created websites for research projects, a podcast, and small businesses",
+        "completed a full-stack software engineering bootcamp",
+        "published and presented research at conferences"
+    ],
     "principles": [
         "accessibility",
         "unviversal design for learning",
@@ -13,8 +23,9 @@
         "research driven design"
     ],
     "technologies": [
-        "React", "Redux", "JavaScript", "PHP", "SASS", "CSS", "HTML", "C#", "SQL", "Git", "AWS", "Blender", "Unity", "WordPress", "Moodle", "Illustrator", "After Effects", "Premiere Pro", "Photoshop", "Lottie"
+        "GarageBand", "Blender", "Unity", "WordPress", "Moodle", "Illustrator", "After Effects", "Premiere Pro", "Photoshop", "Lottie","React", "Redux", "JavaScript", "PHP", "SASS", "CSS", "HTML", "C#", "SQL", "Git", "AWS"
     ],
+    "wrapup": "You can often find me picking up new skills through short courses or personal projects. When I'm not working, I love to hike, barbecue, read fiction, and play any kind of game.",
     "quote": "whatever you pay attention to grows",
     "tagline": "currently working on: game development and motion graphic design"
 }

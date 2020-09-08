@@ -5,6 +5,13 @@
         <div class="flow">
           <h2 class="headline" data-highlight="quaternary">{{ shortBio.title }}</h2>
           <p>{{ shortBio.summary }}</p>
+          <p>Over the past decade, I have:</p>
+          <ul>    
+            {% for detail in shortBio.details %}
+              <li>{{ detail }}</li>
+            {% endfor %}
+          </ul> 
+          <p>{{ shortBio.wrapup }}</p>
           <div>
             <div class="panel">
               <h3>guiding principles</h3>
@@ -16,7 +23,6 @@
                 {% endfor %}
               </div>
             </div>
-          
               <div class="panel billboard">
                 <h3>tools + technologies</h3>
                 <div class="flex-box">
