@@ -6,23 +6,23 @@
           <h2 class="headline" data-highlight="quaternary">{{ shortBio.title }}</h2>
           <p>{{ shortBio.summary }}</p>
           <div>
-            <div class="panel dot-shadow">
-              <h3>technologies</h3>
+            <div class="panel">
+              <h3>guiding principles</h3>
               <div class="flex-box">
-                {% for technology in shortBio.technologies %}
+                {% for principle in shortBio.principles %}
                 <p class="word shadow">
-                    {{ technology }}
+                    {{ principle }}
                 </p>
                 {% endfor %}
               </div>
             </div>
           
               <div class="panel billboard">
-                <h3>guiding principles</h3>
+                <h3>tools + technologies</h3>
                 <div class="flex-box">
-                  {% for principle in shortBio.principles %}
+                  {% for technology in shortBio.technologies %}
                   <p class="item">
-                      {{ principle }}
+                      {{ technology }}
                   </p>
                   {% endfor %}
                 </div>
