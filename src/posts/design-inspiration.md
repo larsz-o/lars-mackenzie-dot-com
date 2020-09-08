@@ -25,9 +25,6 @@ One day, I will have a whole garage full of old electronics.
 I love the line work on this cup. Its size makes it feel like something very special.
 ![a tiny coffee cup against a bright blue wall](/images/coffee.jpg)
 
-## Comic book inspired beer cans -- yes, please
-I want sneakers in this color scheme.
-![Brooklyn Brewery: Defender IPA](/images/defender.jpg)
 
 ## The sight of a great breakfast
 I bought this mug at a yard sale benefitting a cat ranch in Austin, TX. I love a cat in a pajamas dreaming of goldfish (also see my fish in the background). Also: oozing cheese!
