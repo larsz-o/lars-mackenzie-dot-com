@@ -9,6 +9,7 @@
         "taught university courses",
         "produced animations, infographics, and multimedia open-source learning materials",
         "created websites for research projects, a podcast, and small businesses",
+        "researched, developed, tested, and evaluated user interfaces for learning",
         "completed a full-stack software engineering bootcamp",
         "presented research at conferences and published in peer-reviewed journals"
     ],
@@ -24,7 +25,7 @@
         "research driven design"
     ],
     "technologies": [
-        "GarageBand", "Blender", "Unity", "WordPress", "Moodle", "Illustrator", "After Effects", "Premiere Pro", "Photoshop", "Lottie","React", "Redux", "JavaScript", "PHP", "SASS", "CSS", "HTML", "C#", "SQL", "Git", "AWS"
+        "GarageBand",  "Premiere Pro", "Photoshop", "Lottie", "Unity", "WordPress", "Moodle", "Illustrator", "After Effects", "Sketch", "React", "Redux", "JavaScript", "PHP", "SASS", "CSS", "HTML", "C#", "SQL", "Git", "AWS"
     ],
     "wrapup": "You can often find me picking up new skills through short courses or personal projects. When I'm not working, I love to hike, barbecue, read fiction, and play any kind of game.",
     "quote": "whatever you pay attention to grows",
