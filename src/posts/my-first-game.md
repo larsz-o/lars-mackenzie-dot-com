@@ -10,7 +10,7 @@ I have always been into playing video games, but until recently, I haven't thoug
 
 Around December, I started working on a [Udemy course on 2-D game design](https://www.udemy.com/course/unitycourse/learn/lecture/10248514). I was excited to learn a new programming language (C#), and to build something that people might actually want to interact with.
 
-Over about five months, I built a simple [text-based adventure game](https://unitygameslzm.s3.us-east-2.amazonaws.com/ReedsStreetToast/index.html), applied physics to create a [block-breaker game](https://unitygameslzm.s3.us-east-2.amazonaws.com/blockbreaker/index.html), and added some more complex scoring, pathing, and spawning algorithms to create a [space-themed top-down shooter (with ghosts!)](https://s3.console.aws.amazon.com/s3/object/unitygameslzm/TheSkyIsHaunted/index.html). 
+Over about five months, I built a simple [text-based adventure game](https://unitygameslzm.s3.us-east-2.amazonaws.com/ReedsStreetToast/index.html), applied physics to create a [block-breaker game](https://unitygameslzm.s3.us-east-2.amazonaws.com/blockbreaker/index.html), and added some more complex scoring, pathing, and spawning algorithms to create a [space-themed top-down shooter (with ghosts!)](https://larszachary.itch.io/the-sky-is-haunted). 
 
 Yes, I even created a block breaker that uses my family members' heads as the ball.
 ![Mackenzie Block Breaker](https://unitygameslzm.s3.us-east-2.amazonaws.com/MackenzieBlockBreaker720/homescreen.png)
