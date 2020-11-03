@@ -1,4 +1,4 @@
-<div class="[ panel ] [ bg-secondary-glare ]" id="post-list">
+<div class="[ panel dot-shadow ] [ bg-secondary-glare ]" id="post-list">
     <div class="[ wrapper ] [ flow flow-space-700 ]">
       {% if postListHeadline %}
       <h2 class="[ headline ] [ measure-micro ]" data-highlight="primary">
@@ -8,7 +8,6 @@
       <div>
         <ol class="[ post-list ] [ flow ]">
           {% for item in postListItems %}
-         
           <li class="[ post-list__item ] [ leading-tight measure-long ]">
             <a href="{{ item.url }}" class="post-list__link">{{ item.data.title }}</a> 
            <p class="helper-text">posted on: <time datetime="{{item.data.date}}">{{item.data.date}}</time></p>
