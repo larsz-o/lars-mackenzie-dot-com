@@ -6,9 +6,14 @@
             "alt": "GitHub"
         },
         {
-            "icon": "https://lars-prof-site.s3.us-east-2.amazonaws.com/twitter.669afc82.svg",
-            "url": "https://twitter.com/larszmac",
-            "alt": "Twitter"
+            "icon": "https://lars-prof-site.s3.us-east-2.amazonaws.com/youtube.svg",
+            "url": "https://www.youtube.com/channel/UCgj8m6gWWgEZf62cqTf7DbA",
+            "alt": "YouTube"
+        },
+        {
+            "icon": "https://lars-prof-site.s3.us-east-2.amazonaws.com/itchio-logo-textless-black.svg",
+            "url": "https://larszachary.itch.io/",
+            "alt": "Itch"
         },
         {
             "icon": "https://lars-prof-site.s3.us-east-2.amazonaws.com/linkedin.d7874b5e.svg",
