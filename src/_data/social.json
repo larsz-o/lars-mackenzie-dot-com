@@ -16,11 +16,6 @@
             "alt": "Itch"
         },
         {
-            "icon": "https://lars-prof-site.s3.us-east-2.amazonaws.com/linkedin.d7874b5e.svg",
-            "url": "https://www.linkedin.com/in/lars-mackenzie/",
-            "alt": "LinkedIn"
-        },
-        {
             "icon": "https://lars-prof-site.s3.us-east-2.amazonaws.com/envelope.a3ccee01.svg",
             "url": "mailto:larsmackenzie@gmail.com",
             "alt": "Email"
