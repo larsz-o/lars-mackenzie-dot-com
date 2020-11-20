@@ -3,5 +3,6 @@
     "subtitle": "learning designer & developer",
     "url": "https://www.larsmackenzie.com",
     "authorName": "Lars Mackenzie",
-    "authorEmail": "larsmackenzie@gmail.com"
+    "authorEmail": "larsmackenzie@gmail.com",
+    "disqusShortname" : "larsmackenzie"
 }
