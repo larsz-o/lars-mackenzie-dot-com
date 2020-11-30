@@ -43,10 +43,10 @@
         *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
         
         var disqus_config = function () {
-            let header = "{{pageHeaderTitle}}";
-            console.log(header);
-        this.page.url = header; ;  // Replace PAGE_URL with your page's canonical URL variable
-        this.page.identifier = header; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+            let page = "{{page.url}}";
+            let url = "{{site.url}}" + "{{page.url}}";
+        this.page.url = url;   // Replace PAGE_URL with your page's canonical URL variable
+        this.page.identifier = page; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
          };
       
         (function() { // DON'T EDIT BELOW THIS LINE
