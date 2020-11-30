@@ -16,6 +16,11 @@
             "alt": "Itch"
         },
         {
+            "icon": "https://lars-prof-site.s3.us-east-2.amazonaws.com/soundcloud-icon.svg",
+            "url": "https://soundcloud.com/lars-mackenzie/",
+            "alt": "SoundCloud"
+        },
+        {
             "icon": "https://lars-prof-site.s3.us-east-2.amazonaws.com/envelope.a3ccee01.svg",
             "url": "mailto:larsmackenzie@gmail.com",
             "alt": "Email"
