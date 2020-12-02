@@ -4,7 +4,6 @@ date: '2020-11-30'
 snippet: "*cue ambient sounds*"
 tags: ['synthesizer', 'learning', 'music', 'creativity', 'GarageBand']
 isPublished: true
-id: 'crank it up'
 ---
 
 My exciting news for this month is that I purchased a *synthesizer*. 
