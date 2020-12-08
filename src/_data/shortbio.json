@@ -26,7 +26,14 @@
         "research driven design"
     ],
     "technologies": [
-        "GarageBand",  "Premiere Pro", "Photoshop", "Lottie", "Unity", "WordPress", "Moodle", "Illustrator", "After Effects", "React", "Redux", "JavaScript", "PHP", "SASS", "CSS", "HTML", "C#", "SQL", "Git", "AWS"
+      {"url": "../images/layout.svg", "alt": "websites"},
+      {"url": "../images/animation.svg", "alt":"animations"}, 
+      {"url": "../images/headphones.svg", "alt":"audio"},
+      {"url": "../images/joystick.svg", "alt":"digital and analog games"},
+      {"url": "../images/online-video.svg", "alt":"videos"}, 
+      {"url": "../images/learning.svg", "alt":"interactive lessons"},
+      {"url": "../images/visitors.svg", "alt":"online exhibits"},
+      {"url": "../images/infographic.svg", "alt":"infographics"}
     ],
     "wrapup": "You can often find me picking up new skills through short courses or personal projects. When I'm not working, I love to hike, barbecue, read fiction, and play any kind of game.",
     "quote": "whatever you pay attention to grows",

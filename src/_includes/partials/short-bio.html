@@ -24,12 +24,14 @@
               </div>
             </div>
               <div class="panel billboard">
-                <h3>tools + technologies</h3>
+                <h3>looking to work together?</h3>
+                <p>I'm currently <span class="highlight">available</span> for freelance work. I can design and develop any of the following:</p>
                 <div class="flex-box">
                   {% for technology in shortBio.technologies %}
-                  <p class="item">
-                      {{ technology }}
-                  </p>
+                  <div class="item-container panel">
+                    <img class="item" src="{{ technology.url }}" alt="{{ technology.alt }}"/>
+                    <p class="caption">{{technology.alt}}</p>
+                  </div>
                   {% endfor %}
                 </div>
               </div>

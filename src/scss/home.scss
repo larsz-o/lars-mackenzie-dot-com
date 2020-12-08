@@ -14,9 +14,14 @@ $outputTokenCSS: false;
 }
 }
 .item {
-    padding: get-size('300');
-    margin: get-size('300');
-    background-color: get-color('quaternary');
+    padding: get-size('500');
+    height: 150px;
+    width: 150px;
+}
+.item-container {
+    margin: get-size('500');
+    padding: get-size('600');
+    text-align: center;
 }
 .learning-div {
     background: get-color('secondary');
