@@ -7,17 +7,17 @@ const images = () => {
   // We have specific configs for jpeg and png files to try
   // to really pull down asset sizes
   return src('./src/images/**/*')
-    .pipe(
-      imagemin(
-        [
-          imagemin.mozjpeg({quality: 60, progressive: true}),
-          imagemin.optipng({optimizationLevel: 5, interlaced: null})
-        ],
-        {
-          silent: true
-        }
-      )
-    )
+  .pipe(imagemin([
+    imagemin.gifsicle({interlaced: true}),
+    imagemin.mozjpeg({quality: 75, progressive: true}),
+    imagemin.optipng({optimizationLevel: 5}),
+    imagemin.svgo({
+        plugins: [
+            {removeViewBox: true},
+            {cleanupIDs: false}
+        ]
+    })
+]))
     .pipe(dest('./dist/images'));
 };
 
