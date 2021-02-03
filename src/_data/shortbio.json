@@ -28,10 +28,10 @@
     "technologies": [
       {"url": "../images/layout.svg", "alt": "websites"},
       {"url": "../images/animation.svg", "alt":"animations"}, 
-      {"url": "../images/headphones.svg", "alt":"audio"},
-      {"url": "../images/joystick.svg", "alt":"digital and analog games"},
+      {"url": "../images/headphones.svg", "alt":"digital music"},
+      {"url": "../images/joystick.svg", "alt":"games"},
       {"url": "../images/online-video.svg", "alt":"videos"}, 
-      {"url": "../images/learning.svg", "alt":"interactive lessons"},
+      {"url": "../images/learning.svg", "alt":"lessons"},
       {"url": "../images/visitors.svg", "alt":"online exhibits"},
       {"url": "../images/infographic.svg", "alt":"infographics"}
     ],

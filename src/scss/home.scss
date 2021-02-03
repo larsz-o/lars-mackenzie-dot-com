@@ -13,10 +13,16 @@ $outputTokenCSS: false;
     margin: get-size('700') get-size('500');
 }
 }
+.caption {
+    text-align: center;
+    transform: translateY(-20px);
+    z-index: 50;
+}
 .item {
     padding: get-size('500');
     height: 150px;
     width: 150px;
+    
 }
 .item-container {
     margin: get-size('500');
