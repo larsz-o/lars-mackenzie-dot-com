@@ -31,9 +31,5 @@ I love the line work on this cup. Its size makes it feel like something very spe
 I bought this mug at a yard sale benefitting a cat ranch in Austin, TX. I love a cat in a pajamas dreaming of goldfish (also see my fish in the background). Also: oozing cheese!
 ![an egg sandwich in the foreground, a coffee cup with a cat in the background](/images/eggmug.jpg)
 
-## Aah Real Monsters?
-I am pretty sure I bought this beer just for the can, but I also wasn't disappointed.
-![Slush beer cans](/images/slush.jpg)
-
 
 That's all for now. What would be in your design inspiration library?
