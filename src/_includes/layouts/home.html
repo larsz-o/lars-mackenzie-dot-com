@@ -18,7 +18,9 @@
     </div>
   </article>
 </div>
-<div class="flex-box flex-center">
+
+{% set shortBio = shortbio %} {% include "partials/short-bio.html" %} 
+<div class="wrapper">
     <iframe
     frameborder="0"
     src="https://itch.io/embed-upload/2986502?color=333333"
@@ -30,6 +32,5 @@
     ></iframe
   >
 </div>
-
-{% set shortBio = shortbio %} {% include "partials/short-bio.html" %} {%
+{%
 endblock %}
