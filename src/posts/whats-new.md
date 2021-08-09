@@ -1,6 +1,6 @@
 ---
 title: "what's new?"
-date: '2021-08-09`'
+date: '2021-08-09'
 snippet: "In other news: I am tired."
 tags: ['news', 'i am tired']
 isPublished: true
