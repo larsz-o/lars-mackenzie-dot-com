@@ -1,5 +1,6 @@
 // First up: config and functions
 @import 'config';
+@import '_flow';
 
 // Set Gorko to output no CSS for this file
 $outputTokenCSS: false;
@@ -45,3 +46,10 @@ $outputTokenCSS: false;
 .shadow {
     box-shadow: 4px 6px get-color('dark-shade')
 }
+.snippet {
+    color: get-color('dark');
+    font-size: get-size('400');
+    margin-top: get-size('300');
+    padding-left: get-size('300');
+    border-left: 3px solid get-color('quinary');
+  }
