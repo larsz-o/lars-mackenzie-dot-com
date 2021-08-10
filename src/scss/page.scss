@@ -6,9 +6,7 @@ $outputTokenCSS: false;
 
 // Next: pull in Gorko for design tokens
 @import '../../node_modules/gorko/gorko.scss';
-.binary {
-  font-family: monospace;
-}
+
 .details {
   background-color: get-color('secondary');
   padding: get-size('600');
