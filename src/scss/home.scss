@@ -1,6 +1,5 @@
 // First up: config and functions
 @import 'config';
-@import '_flow';
 
 // Set Gorko to output no CSS for this file
 $outputTokenCSS: false;
@@ -30,6 +29,9 @@ $outputTokenCSS: false;
     padding: get-size('600');
     text-align: center;
 }
+.flow > * + * {
+    margin-top: var(--flow-space, get-size('600'));
+  }  
 .learning-div {
     background: get-color('secondary');
     padding: get-size('600');
